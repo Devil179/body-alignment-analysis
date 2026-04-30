@@ -116,9 +116,18 @@ data/output/annotated.jpg
 
 The shoulder angle is computed using:
 
-[
-\theta = \tan^{-1} \left( \frac{y_2 - y_1}{x_2 - x_1} \right)
-]
+```
+θ = arctan((y₂ - y₁) / (x₂ - x₁))
+```
+
+Or in LaTeX:
+
+$$\theta = \arctan\left(\frac{y_2 - y_1}{x_2 - x_1}\right)$$
+
+Where:
+* `(x₁, y₁)` = Left shoulder coordinates
+* `(x₂, y₂)` = Right shoulder coordinates
+* `θ` = Shoulder alignment angle in degrees
 
 ---
 
