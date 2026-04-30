@@ -132,6 +132,10 @@ Where:
 
 ---
 
+## Demo
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/fbdeba2f-c0cf-4d52-a40b-c3f04a4624e7" />
+
+
 ## 🚀 Future Improvements
 
 * Add real-time webcam analysis
